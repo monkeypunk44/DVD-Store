@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" manifest="" root="" work="">
+    <createjar file="SoftwareProject.jar" flags="12"/>
+    <source>
+      <file active="true" name="SystemUI.java" package="" timestamp="02-Apr-2019 23:48:49">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="CustSearchPanel.java" package="" timestamp="02-Apr-2019 15:34:38">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Customer.java" package="" timestamp="02-Apr-2019 15:29:44">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DVD.java" package="" timestamp="01-Apr-2019 12:43:51">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="DVDSearchPanel.java" package="" timestamp="02-Apr-2019 15:03:28">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="RegisterCustPanel.java" package="" timestamp="02-Apr-2019 12:35:12">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="RentReturnPanel.java" package="" timestamp="02-Apr-2019 14:59:35">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Rental.java" package="" timestamp="01-Apr-2019 14:35:44">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="StockDVDPanel.java" package="" timestamp="02-Apr-2019 12:55:51">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="MainSystem.java" package="" timestamp="02-Apr-2019 23:43:36">
+        <select from="976" to="976"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

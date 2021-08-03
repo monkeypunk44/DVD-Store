@@ -1,0 +1,16 @@
+NOTES FOR SYSTEM CLASS
+Resize arrays if too much data.
+
+change find DVD parameters to include type
+	Same with findCust and possibly rent/return
+check addDVD parameters with AJ
+check setCustomerRent parameters with AJ.
+
+WHAT DOES OVERDUECHECK DO?
+
+
+NOTES FOR CUSTOMER CLASS
+Move responsibility of adding a DVD to the customer list to the System instead of the customer.
+
+
+NOTES FOR SYSTEMUI CLASS

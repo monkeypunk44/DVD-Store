@@ -1,0 +1,17 @@
+REGISTERING A CUSTOMER
+1. System presents main menu
+2. Cashier clicks "Add new customer" button
+3. System presents register customer sub-menu, contains fields for pertinent customer information.
+4. Cashier fills out fields with the customer's new information.
+5. Cashier clicks "Register" button to complete process.
+
+
+
+CHECKING (CUSTOMER) STATUS
+1. System presents main menu
+2. Cashier clicks "Find existing customer" button
+3. System presents customer search sub-menu, contains fields for relevant customer information along with search buttons for each (so the cashier may search by name, address etc.)
+4. Cashier fills one field of data and clicks the adjacent "Search" button.
+5. System displays a list of customers with that information stored in their account.
+6. Cashier selects the appropriate customer
+7. System displays customer information, including a list of DVDs rented. Offers buttons to rent / return DVDs.
